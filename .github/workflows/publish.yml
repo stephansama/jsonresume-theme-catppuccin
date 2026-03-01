@@ -8,6 +8,7 @@ on:
 env:
   DO_NOT_TRACK: 1
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+  NODE_AUTH_TOKEN: ${{secrets.NODE_AUTH_TOKEN}}
 permissions:
   contents: write
   id-token: write
