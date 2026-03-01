@@ -1,0 +1,10 @@
+{
+	"plugins": [
+		"npm",
+    ["conventional-commits", { "defaultReleaseType": "patch" }]
+	],
+	"owner": "stephansama",
+	"repo": "jsonresume-theme-catppuccin",
+	"name": "Stephan Randle",
+	"email": "stephanrandle@hotmail.com"
+}

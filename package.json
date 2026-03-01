@@ -1,0 +1,27 @@
+{
+  "name": "jsonresume-theme-catppuccin",
+  "version": "1.0.0",
+  "description": "Wrapper package for @stephansama/catppuccin-jsonresume-theme",
+  "main": "index.js",
+  "scripts": {
+    "release": "auto shipit"
+  },
+  "devDependencies": {
+    "@auto-it/conventional-commits": "^11.3.6",
+    "auto": "^11.3.6"
+  },
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
+  "author": {
+    "name": "Stephan Randle",
+    "url": "https://stephansama.info",
+    "email": "stephanrandle.dev@gmail.com"
+  },
+  "license": "MIT",
+  "packageManager": "pnpm@10.29.3",
+  "dependencies": {
+    "@stephansama/catppuccin-jsonresume-theme": "*"
+  }
+}
