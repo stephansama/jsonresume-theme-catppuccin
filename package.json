@@ -1,6 +1,6 @@
 {
   "name": "jsonresume-theme-catppuccin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper package for @stephansama/catppuccin-jsonresume-theme",
   "main": "index.js",
   "scripts": {
